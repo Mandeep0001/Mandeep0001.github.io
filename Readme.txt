@@ -1,3 +1,1 @@
-Welcome people.
-
-Checkout the page for more information.
+Its my CV.
